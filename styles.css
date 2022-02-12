@@ -1,3 +1,4 @@
+
 .cards-preview .img-container{
     flex-basis:50%;
 }
@@ -16,4 +17,14 @@
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+.side-bar{
+    border:1px solid black;
+    flex-basis:15rem;
+} 
+
+.radio-btn{
+    height:20px;
+    width:20px
 }
