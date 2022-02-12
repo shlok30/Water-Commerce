@@ -1,0 +1,19 @@
+.cards-preview .img-container{
+    flex-basis:50%;
+}
+
+.primary-text{
+    color:var(--primary-color)
+}
+
+.secondary-text{
+    color:var(--secondary-color)
+}
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 3rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
