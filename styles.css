@@ -17,9 +17,3 @@
     color: white;
     border-top-right-radius: 1rem;
 }
-
-.absolute-footer{
-    position: absolute;
-    bottom:0;
-    width:100%;
-}
