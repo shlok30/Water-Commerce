@@ -31,7 +31,8 @@
     border-top-right-radius: 1rem;
 }
 
-.zero-bottom{
-    position: fixed;
-    bottom: 0;
+.abosulute-footer{
+    position: absolute;
+    bottom:0;
+    width:100%;
 }
