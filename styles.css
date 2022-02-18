@@ -1,5 +1,14 @@
-.cards-preview .img-container{
+.cards-preview,.card-container .img-container{
     flex-basis:50%;
+}
+
+.card-container img{
+    height: 100%;
+}
+
+#quantity{
+    width: 2rem;
+    margin-left:5px;
 }
 
 .primary-text{
@@ -10,10 +19,20 @@
     color:var(--secondary-color)
 }
 
+.price{
+    border:1px solid black
+}
+
 .footer {
     background-color: var(--primary-color);
     padding: 3rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+.abosulute-footer{
+    position: absolute;
+    bottom:0;
+    width:100%;
 }
