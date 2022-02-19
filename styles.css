@@ -1,13 +1,13 @@
 
-.cards-preview .img-container{
+.cards-preview .img-container {
     flex-basis:50%;
 }
 
-.primary-text{
+.primary-text {
     color:var(--primary-color)
 }
 
-.secondary-text{
+.secondary-text {
     color:var(--secondary-color)
 }
 
@@ -19,12 +19,12 @@
     border-top-right-radius: 1rem;
 }
 
-.side-bar{
+.side-bar {
     border:1px solid black;
     flex-basis:15rem;
 } 
 
-.radio-btn{
-    height:20px;
-    width:20px
+.radio-btn {
+    height:1.25rem;
+    width:1.25rem;
 }
