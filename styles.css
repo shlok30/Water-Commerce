@@ -3,12 +3,25 @@
     flex-basis:50%;
 }
 
-.primary-text {
+.card-container img{
+    height: 100%;
+}
+
+#quantity{
+    width: 2rem;
+    margin-left:5px;
+}
+
+.primary-text{
     color:var(--primary-color)
 }
 
-.secondary-text {
+.secondary-text{
     color:var(--secondary-color)
+}
+
+.price{
+    border:1px solid black
 }
 
 .footer {
@@ -27,4 +40,10 @@
 .radio-btn {
     height:1.25rem;
     width:1.25rem;
+}
+
+.abosulute-footer{
+    position: absolute;
+    bottom:0;
+    width:100%;
 }
